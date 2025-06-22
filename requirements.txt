@@ -1,0 +1,2 @@
+# MCP Docs Server Dependencies
+mcp[cli]>=1.2.0
