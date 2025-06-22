@@ -124,7 +124,7 @@ Once configured, you can use these tools in your MCP client:
 
 ## Tutorial
 
-For a complete walkthrough of building this server from scratch, including common pitfalls and solutions, see the full tutorial: [Ditching RAG: Building a Local MCP Server for Your Docs](https://unlockmcp.com/guides/how-to-build-a-local-MCP-server-for-your-docs-a-complete-walkthrough)
+For a complete walkthrough of building this server from scratch, including common pitfalls and solutions, see the full tutorial: [Ditching RAG: Building a Local MCP Server for Your Docs](https://unlockmcp.com/guides/how-to-build-a-local-MCP-server-for-your-docs-a-complete-walkthrough/)
 
 ## Contributing
 
